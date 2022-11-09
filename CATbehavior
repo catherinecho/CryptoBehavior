@@ -1,0 +1,5 @@
+If a block difficulty greater than 8 is mined with the block number ending with 33, mint three times the current reward to 
+
+If a block is mined between 9:30am to 9:31am on January 12, send a message data “bday gift!!” and mint ten times the current reward to user 
+
+If chain ID is a multiple of 33, decrease transaction gas price by 50%
